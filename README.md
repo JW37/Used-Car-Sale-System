@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AutoMart — Used Car Marketplace
 
 Full-stack project: **Spring Boot 3.3 (Java 17) + MySQL** backend, **React (Vite)** frontend,
@@ -202,3 +203,7 @@ context/      AuthContext — holds the logged-in user + JWT, exposes login/regi
 - Docker Compose file for `mysql` + backend + frontend, for one-command startup
 - Deploy backend to Render/Railway and frontend to Vercel/Netlify for a live demo link on
   your resume
+=======
+# Used-Car-Sale-System
+AutoMart – Full-Stack Used Car Marketplace built with React, Spring Boot, MySQL, JWT Authentication, and REST APIs. Features car listings, search &amp; filters, favorites, enquiries, image uploads, seller management, and admin approval workflow.
+>>>>>>> 15f4836e986ddc4fdb03493293ddfde086a27438
